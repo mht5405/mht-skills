@@ -32,6 +32,33 @@ Claude Code 技能集合，用于提升生产力和工作流自动化。
 
 **[查看详情 →](./liuhuahui-writing-style/)**
 
+### 3. Bin Ge Perspective（斌哥思维框架）
+
+基于斌哥 363 期视频内容完整蒸馏的恋爱、人生哲学和赚钱思维框架。
+
+**功能特性：**
+- 📚 **12 个完整的心智模型**：选择权决定论、吸引力悖论、博弈论、黄毛思维等
+- 🎯 **8 个实战场景化指南**：初识女生、聊天冷淡、被打压、平淡期、社交软件等
+- 💰 **赚钱和阶层思维**：爱钱的本质、5 个赚钱阶段、阶层穿越方法论
+- 🧠 **8 项情商核心技能**：沉默的力量、预期值管理、情绪调动等
+- 🔍 **完整的可追溯索引系统**：每个概念都能追溯到源视频（363 期）
+- ⚖️ **8 条明确的道德边界**：透明展示作者的伦理框架
+
+**核心应用场景：**
+- 恋爱感情困局分析与决策
+- 人际关系和社交策略
+- 人生选择和权衡
+- 赚钱思维和经济独立
+- 心态调整和自信心建设
+
+**文档：**
+- `SKILL.md`：1,009 行的完整思维框架
+- `README.md`：使用说明和功能概览
+- `references/INDEX.md`：内容索引（12 个心智模型 + 8 个场景）
+- `references/SOURCES.md`：蒸馏方法论和数据透明性说明
+
+**[查看详情 →](./bin-ge-perspective/)**
+
 ## 🚀 安装方法
 
 ### 前置要求
@@ -162,6 +189,33 @@ Write content that matches liuhuahui's authentic, conversational, and practical 
 - Perfect for blog posts, tutorials, and opinion pieces
 
 **[View Details →](./liuhuahui-writing-style/)**
+
+### 3. Bin Ge Perspective
+
+A complete distillation of 363 video transcripts from Bin Ge (斌哥), offering frameworks for love, life philosophy, and money-making wisdom.
+
+**Features:**
+- 📚 **12 Complete Mental Models**: Choice Authority Theory, Attraction Paradox, Game Theory, Yellow Hair Mindset, etc.
+- 🎯 **8 Practical Scenario Guides**: First meeting, Cold chat, Being put down, Relationship plateau, Social apps, etc.
+- 💰 **Money-Making and Social Climbing Wisdom**: Essence of loving money, 5 stages of earning, methods for climbing social ladder
+- 🧠 **8 EQ Core Skills**: Power of silence, expectation management, emotion triggering, etc.
+- 🔍 **Complete Traceable Index System**: Every concept maps back to source videos (363 episodes)
+- ⚖️ **8 Explicit Ethical Boundaries**: Transparent display of author's ethical framework
+
+**Core Application Scenarios:**
+- Analysis and decision-making in love relationships
+- Interpersonal relationships and social strategies
+- Life choices and trade-offs
+- Money-making mindset and financial independence
+- Mindset adjustment and confidence building
+
+**Documentation:**
+- `SKILL.md`: 1,009 lines of complete thinking framework
+- `README.md`: Usage guide and feature overview
+- `references/INDEX.md`: Content index (12 mental models + 8 scenarios)
+- `references/SOURCES.md`: Distillation methodology and data transparency
+
+**[View Details →](./bin-ge-perspective/)**
 
 ## 🚀 Installation
 
