@@ -59,6 +59,34 @@ Claude Code 技能集合，用于提升生产力和工作流自动化。
 
 **[查看详情 →](./bin-ge-perspective/)**
 
+
+### 4. Rapid Mastery Orchestrator（快速领域掌握框架）
+
+LLM-RMF v2.0 -- AI时代的7天快速领域掌握框架。利用LLM在7天内系统性地进入一个陌生领域，达到入门级胜任工作能力。
+
+**功能特性：**
+- **Feynman Technique强化版**：每学一个概念，用最简单的话解释给LLM听，迭代直到完美
+- **80/20 + 项目驱动**：只学产生80%价值的那20%内容，通过真实项目应用
+- **强制里程碑关卡制**：7天拆解为7个强制里程碑，LLM打分85分才能晋级
+- **AI反馈闭环**：LLM作为教练，提供批改、角色扮演、模拟面试、练习题
+- **反人性弱点机制**：公开承诺、惩罚协议、责任伙伴，防止拖延
+- **会话持久化**：进度保存到rmf-state.json，支持多设备恢复
+- **Obsidian + Git集成**：Checkpoint文件可与笔记放在同一目录
+- **14个核心Prompt模板**：覆盖知识图谱、批改、Feynman检查、Mock面试等
+- **多领域支持**：可同时在多个目录学习不同领域，状态互不干扰
+
+**适用场景：**
+- 转行学习（产品经理、数据分析、AI工程师等）
+- 7天内快速上手新领域
+- 面试前冲刺准备
+- 工作中需要快速掌握新技能
+
+**文档：**
+- SKILL.md：完整的框架定义和执行协议
+- references/prompt-templates.md：14个即用Prompt模板
+- references/milestone-standards.md：7个里程碑的评分标准和通关条件
+
+**[查看详情 ->](./rapid-mastery-orchestrator/)**
 ## 🚀 安装方法
 
 ### 前置要求
@@ -217,6 +245,33 @@ A complete distillation of 363 video transcripts from Bin Ge (斌哥), offering 
 
 **[View Details →](./bin-ge-perspective/)**
 
+
+### 4. Rapid Mastery Orchestrator
+
+LLM-RMF v2.0 -- A 7-day rapid domain mastery framework for the AI era. Systematically enter any unfamiliar field within 7 days using LLMs, achieving entry-level job competence.
+
+**Features:**
+- **Enhanced Feynman Technique**: Explain every concept to LLM in simplest terms, iterate until perfect
+- **80/20 + Project-Driven**: Learn only the 20% that produces 80% value, apply through real projects
+- **Mandatory Milestone Gates**: 7 milestones with LLM scoring to advance
+- **AI Feedback Loop**: LLM as coach - grading, role-playing, mock interviews
+- **Anti-Procrastination**: Public commitment, penalty protocol, accountability partner
+- **Session Persistence**: Progress saved across sessions and devices
+- **14 Core Prompt Templates**: Knowledge graphs, grading, Feynman checks, mock interviews
+- **Multi-Domain Support**: Learn multiple domains simultaneously
+
+**Use Cases:**
+- Career transition learning (PM, Data Science, AI Engineer)
+- Rapid onboarding to new fields within 7 days
+- Interview sprint preparation
+- Quickly acquiring new skills for work
+
+**Documentation:**
+- SKILL.md: Complete framework definition and execution protocol
+- references/prompt-templates.md: 14 ready-to-use prompt templates
+- references/milestone-standards.md: Scoring criteria and pass conditions for 7 milestones
+
+**[View Details ->](./rapid-mastery-orchestrator/)**
 ## 🚀 Installation
 
 ### Prerequisites
